@@ -11,6 +11,6 @@ In the easy mode, the user is given 3 colors ot choose from as shown in the imag
 
 ![Screenshot](cg2.png)
 
-Whereas in the hardmode, the user is provided with 6 colors to choose from as shown in the image given below. In both modes, upon pressing the NEW COLORS button, the colors are refreshed and the a new RGB value is provided for teh user to figure out.
+Whereas in the hard mode, the user is provided with 6 colors to choose from as shown in the image given below. In both modes, upon pressing the NEW COLORS button, the colors are refreshed and the a new RGB value is provided for teh user to figure out.
 
 ![Screenshot](cg1.png)
