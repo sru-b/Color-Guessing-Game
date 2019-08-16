@@ -9,4 +9,4 @@ Other simple stylistic details of the webpage have been taken care using CSS.
 The game has two difficulty modes: Easy and Hard modes.
 In the easy mode, the user is given 3 colors ot choose from as shown in teh image below.
 
-[Screenshot]!(cg1.png)
+![Screenshot](cg1.png)
