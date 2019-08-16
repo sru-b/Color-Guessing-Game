@@ -7,6 +7,10 @@ with the use of jQuery that helped reference specific elements(classes, id or ta
 Other simple stylistic details of the webpage have been taken care using CSS.
 
 The game has two difficulty modes: Easy and Hard modes.
-In the easy mode, the user is given 3 colors ot choose from as shown in teh image below.
+In the easy mode, the user is given 3 colors ot choose from as shown in the image below.
+
+![Screenshot](cg2.png)
+
+Whereas in the hardmode, the user is provided with 6 colors to choose from as shown in the image given below. In both modes, upon pressing the NEW COLORS button, the colors are refreshed and the a new RGB value is provided for teh user to figure out.
 
 ![Screenshot](cg1.png)
