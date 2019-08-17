@@ -8,7 +8,7 @@ Other simple stylistic details of the webpage have been taken care using **CSS**
 
 A demonstration video of the game is shown below:
 
-![Video Demo](cg_vid.mov)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](cg_vid.mov)
 
 The game has two difficulty modes: **Easy and Hard modes**.
 In the easy mode, the user is given 3 colors to choose from as shown in the image below.
