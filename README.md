@@ -6,6 +6,10 @@ his/her ability to corelate colors to their RGB value. The **Javascript** logic 
 with the use of **jQuery** that helped reference specific elements(classes, id or tags) of the orirginal **HTML** document.
 Other simple stylistic details of the webpage have been taken care using **CSS**.
 
+A demonstration video of the game is shown below:
+
+![](cg_vid.mov)
+
 The game has two difficulty modes: **Easy and Hard modes**.
 In the easy mode, the user is given 3 colors to choose from as shown in the image below.
 
